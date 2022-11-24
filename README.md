@@ -1,7 +1,9 @@
 # NFT Minter App
 
+App is deployed on Vercel here - https://nft-minter-vite-6mjadseer-shraddha38.vercel.app/
+
 ## Introduction
-I have been curious about Blockchain for a long time and made a small play-project ([e-voting app]()) a couple years ago. Ever since, I wanted to try out some full-stack projects. This is my attempt towards a full-stack blockchain app. The beauty of web3 apps is that we don't need a traditional backend as our data-source is the blockchain public ledger.
+I have been curious about Blockchain for a long time and made a small play-project ([e-voting app](https://github.com/shraddha38/e-voting-system-Blockchain-)) a couple years ago. Ever since, I wanted to try out some full-stack projects. This is my attempt towards a full-stack blockchain app. The beauty of web3 apps is that we don't need a traditional backend as our data-source is the blockchain public ledger.
 This app is linked with an ERC721 smart contract deployed on the Goerli Network. By using this app, one can mint an NFT using the deployed smart contract, for themselves.
 
 ## Technologies Used
@@ -12,6 +14,8 @@ This app is linked with an ERC721 smart contract deployed on the Goerli Network.
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
 ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
+
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 
 ### Metamask 
 Request for icon added at - https://github.com/simple-icons/simple-icons/issues/7475
